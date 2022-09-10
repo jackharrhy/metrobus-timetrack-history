@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 18-1",
+    "current_route": "18-1",
+    "bulletin": "<p>Route 18 detour changing starting September 6. Check bulletins for details.</p>",
+    "routenumber": 18,
+    "vehicle": "1203",
+    "time_stamp": "10:47 PM",
+    "deviation": "17 MINS BEHIND",
+    "service": "1",
+    "current_location": "The Village Shopping Centre",
+    "bus_lat": "47.55880",
+    "bus_lon": "-52.78446",
+    "heading": "NOT AVAILABLE",
+    "speed": 0,
+    "position_time": "10:47 PM",
+    "position_time_seconds": 82030,
+    "gtfs_trip_headsign": "Kilbride - Goulds",
+    "colour": "#FFFFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "BEHIND",
+    "gtfs_stop_sequence_mins_from_stop": 17,
+    "gtfs_stop_sequence_deviation": "17 MINS BEHIND",
+    "gtfs_stop_sequence_colour": "#FFFFCC",
+    "gtfs_stop_sequence_closest_stop": "The Village Shopping Centre",
+    "gtfs_stop_sequence_sched_difference_mins": -17,
+    "gtfs_stop_sequence_trip_id": "209024",
+    "gtfs_trip_id": "209024",
+    "gtfs_trip_id_history": "208999",
+    "gtfs_stop_sequence_actual": 1,
+    "gtfs_stop_sequence_actual_history": 6,
+    "gtfs_stop_sequence_max_trip": 0,
+    "gtfs_stop_last_known_status": "18-1 last status NO HISTORY @ 6:00 AM",
+    "departure_time_at_closest_stop": "81000",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busicon.png",
+    "shortstatus": "B17",
+    "requestip": "127.0.0.1      "
+  }
+]
