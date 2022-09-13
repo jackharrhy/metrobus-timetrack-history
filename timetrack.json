@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 18-2",
+    "current_route": "18-2",
+    "bulletin": "<p>Route 18 detour changing starting September 6. Check bulletins for details.</p>",
+    "routenumber": 18,
+    "vehicle": "1209",
+    "time_stamp": "12:28 AM",
+    "deviation": "17 MINS BEHIND",
+    "service": "5",
+    "current_location": "Main Rd - Keiths Takout",
+    "bus_lat": "47.46025",
+    "bus_lon": "-52.78006",
+    "heading": "W",
+    "speed": 37,
+    "position_time": "12:28 AM",
+    "position_time_seconds": 88093,
+    "gtfs_trip_headsign": "Kilbride - The Village",
+    "colour": "#FFFFCC",
+    "gtfs_service_id": "5",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 17,
+    "gtfs_stop_sequence_deviation": "17 MINS BEHIND",
+    "gtfs_stop_sequence_colour": "#FFFFCC",
+    "gtfs_stop_sequence_closest_stop": "Main Rd - Keiths Takout",
+    "gtfs_stop_sequence_sched_difference_mins": -17,
+    "gtfs_stop_sequence_trip_id": "209005",
+    "gtfs_trip_id": "209005",
+    "gtfs_trip_id_history": "209005",
+    "gtfs_stop_sequence_actual": 8,
+    "gtfs_stop_sequence_actual_history": 8,
+    "gtfs_stop_sequence_max_trip": 8,
+    "gtfs_stop_last_known_status": "18-2 last status 17 MINS BEHIND @  8:59 PM",
+    "departure_time_at_closest_stop": "86340",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconW.png",
+    "shortstatus": "B17",
+    "requestip": "127.0.0.1      "
+  }
+]
