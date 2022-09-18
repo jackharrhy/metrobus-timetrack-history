@@ -42,7 +42,7 @@
   {
     "routerun": "Rt 2-1",
     "current_route": "02-1",
-    "bulletin": "<p>Detours scheduled for routes 2, 3, 6, 10 and 15 Sunday from start of service until approximately 1:00 PM during provincial marathon. &nbsp;Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 2,
     "vehicle": "1626",
     "time_stamp": "8:19 PM",
@@ -82,7 +82,7 @@
   {
     "routerun": "Rt 2-2",
     "current_route": "02-2",
-    "bulletin": "<p>Detours scheduled for routes 2, 3, 6, 10 and 15 Sunday from start of service until approximately 1:00 PM during provincial marathon. &nbsp;Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 2,
     "vehicle": "1208",
     "time_stamp": "8:19 PM",
@@ -122,7 +122,7 @@
   {
     "routerun": "Rt 3-1",
     "current_route": "03-1",
-    "bulletin": "<p>Routes 3, 10 detoured from Water Street in the area of the Pedestrian Mall.</p><p>Detours scheduled for routes 2, 3, 6, 10 and 15 Sunday from start of service until approximately 1:00 PM during provincial marathon. &nbsp;Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 detoured from Water Street in the area of the Pedestrian Mall.</p>",
     "routenumber": 3,
     "vehicle": "1525",
     "time_stamp": "8:19 PM",
@@ -162,7 +162,7 @@
   {
     "routerun": "Rt 3-2",
     "current_route": "03-2",
-    "bulletin": "<p>Routes 3, 10 detoured from Water Street in the area of the Pedestrian Mall.</p><p>Detours scheduled for routes 2, 3, 6, 10 and 15 Sunday from start of service until approximately 1:00 PM during provincial marathon. &nbsp;Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 detoured from Water Street in the area of the Pedestrian Mall.</p>",
     "routenumber": 3,
     "vehicle": "1209",
     "time_stamp": "8:19 PM",
@@ -202,7 +202,7 @@
   {
     "routerun": "Rt 10-1",
     "current_route": "10-1",
-    "bulletin": "<p>Routes 3, 10 detoured from Water Street in the area of the Pedestrian Mall.</p><p>Detours scheduled for routes 2, 3, 6, 10 and 15 Sunday from start of service until approximately 1:00 PM during provincial marathon. &nbsp;Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 detoured from Water Street in the area of the Pedestrian Mall.</p>",
     "routenumber": 10,
     "vehicle": "148",
     "time_stamp": "8:19 PM",
@@ -282,7 +282,7 @@
   {
     "routerun": "Rt 15-1",
     "current_route": "15-1",
-    "bulletin": "<p>Detours scheduled for routes 2, 3, 6, 10 and 15 Sunday from start of service until approximately 1:00 PM during provincial marathon. &nbsp;Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 15,
     "vehicle": "1417",
     "time_stamp": "8:19 PM",
