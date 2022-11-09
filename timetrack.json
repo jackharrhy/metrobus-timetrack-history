@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Rt 2-2",
-    "current_route": "02-2",
-    "bulletin": "<p>Route 2 detoured from Montague Street near Drake Crescent. Check bulletins for details.</p>",
-    "routenumber": 2,
-    "vehicle": "1628",
-    "time_stamp": "8:46 PM",
-    "deviation": "1 MIN AHEAD",
-    "service": "5",
-    "current_location": "OLeary Avenue - 38 (Body Works)",
-    "bus_lat": "47.55935",
-    "bus_lon": "-52.78467",
-    "heading": "NNW",
-    "speed": 3,
-    "position_time": "8:46 PM",
-    "position_time_seconds": 74799,
-    "gtfs_trip_headsign": "Pleasantville - The Village",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 1,
-    "gtfs_stop_sequence_deviation": "1 MIN AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "OLeary Avenue - 38 (Body Works)",
-    "gtfs_stop_sequence_sched_difference_mins": 1,
-    "gtfs_stop_sequence_trip_id": "207960",
-    "gtfs_trip_id": "207960",
-    "gtfs_trip_id_history": "207999",
-    "gtfs_stop_sequence_actual": 2,
-    "gtfs_stop_sequence_actual_history": 48,
-    "gtfs_stop_sequence_max_trip": 48,
-    "gtfs_stop_last_known_status": "02-2 last status 1 MIN AHEAD @ 11:56 PM",
-    "departure_time_at_closest_stop": "73860",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNNW.png",
-    "shortstatus": "A1",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
