@@ -322,7 +322,7 @@
   {
     "routerun": "Rt 18-1",
     "current_route": "18-1",
-    "bulletin": "<p>Detour scheduled&nbsp;for route 18 on Sunday, December 11th. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 18,
     "vehicle": "859",
     "time_stamp": "8:19 PM",
