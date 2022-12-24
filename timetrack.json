@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-1",
+    "current_route": "10-1",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "150",
+    "time_stamp": "7:02 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Clinch Cres - west side of HSC",
+    "bus_lat": "47.56793",
+    "bus_lon": "-52.74417",
+    "heading": "NE",
+    "speed": 32,
+    "position_time": "7:02 AM",
+    "position_time_seconds": 25364,
+    "gtfs_trip_headsign": "MUN - Downtown",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Clinch Cres - west side of HSC",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "208465",
+    "gtfs_trip_id": "208465",
+    "gtfs_trip_id_history": "208465",
+    "gtfs_stop_sequence_actual": 18,
+    "gtfs_stop_sequence_actual_history": 18,
+    "gtfs_stop_sequence_max_trip": 18,
+    "gtfs_stop_last_known_status": "10-1 last status ON TIME @  7:00 AM",
+    "departure_time_at_closest_stop": "25560",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNE.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
