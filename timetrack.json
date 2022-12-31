@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-1",
+    "current_route": "10-1",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "857",
+    "time_stamp": "7:03 AM",
+    "deviation": "NO DATA",
+    "service": "1",
+    "current_location": "Thorburn Road - back of Avalon Mall",
+    "bus_lat": "47.56278",
+    "bus_lon": "-52.74873",
+    "heading": "NNE",
+    "speed": 50,
+    "position_time": "7:03 AM",
+    "position_time_seconds": 25416,
+    "gtfs_trip_headsign": "MUN - Downtown",
+    "colour": "#E4E3E6",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "NO DATA",
+    "gtfs_stop_sequence_colour": "#E4E3E6",
+    "gtfs_stop_sequence_closest_stop": "Thorburn Road - back of Avalon Mall",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "208465",
+    "gtfs_trip_id": "208465",
+    "gtfs_trip_id_history": "208465",
+    "gtfs_stop_sequence_actual": 15,
+    "gtfs_stop_sequence_actual_history": 15,
+    "gtfs_stop_sequence_max_trip": 15,
+    "gtfs_stop_last_known_status": "10-1 last status ON TIME @  6:57 AM",
+    "departure_time_at_closest_stop": "24780",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNE.png",
+    "shortstatus": "ND",
+    "requestip": "127.0.0.1      "
+  }
+]
