@@ -162,7 +162,7 @@
   {
     "routerun": "Rt 10-1",
     "current_route": "10-1",
-    "bulletin": "None",
+    "bulletin": "<p>Access to stops on MUN campus may be impeded and there may be delays in the area of MUN/MI caused by a possible labour dispute.</p>",
     "routenumber": 10,
     "vehicle": "962",
     "time_stamp": "5:52 PM",
@@ -202,7 +202,7 @@
   {
     "routerun": "Rt 15-1",
     "current_route": "15-1",
-    "bulletin": "None",
+    "bulletin": "<p>Access to stops on MUN campus may be impeded and there may be delays in the area of MUN/MI caused by a possible labour dispute.</p>",
     "routenumber": 15,
     "vehicle": "861",
     "time_stamp": "11:33 PM",
