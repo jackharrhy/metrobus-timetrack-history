@@ -151,7 +151,7 @@
     "gtfs_stop_sequence_actual": 16,
     "gtfs_stop_sequence_actual_history": 16,
     "gtfs_stop_sequence_max_trip": 16,
-    "gtfs_stop_last_known_status": "01-4 last status 2 MINS BEHIND @  5:06 PM",
+    "gtfs_stop_last_known_status": "01-4 last status 2 MINS BEHIND @  5:08 PM",
     "departure_time_at_closest_stop": "61500",
     "geo_coded_location": "NOT QUERIED",
     "exception": "N",
