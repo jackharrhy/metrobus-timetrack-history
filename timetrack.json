@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-1",
+    "current_route": "10-1",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "754",
+    "time_stamp": "6:47 AM",
+    "deviation": "8 MINS BEHIND",
+    "service": "1",
+    "current_location": "Pippy Place - 32 (Downeast)",
+    "bus_lat": "47.55990",
+    "bus_lon": "-52.77049",
+    "heading": "NNW",
+    "speed": 45,
+    "position_time": "6:47 AM",
+    "position_time_seconds": 24455,
+    "gtfs_trip_headsign": "MUN - Downtown",
+    "colour": "#FFFFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 8,
+    "gtfs_stop_sequence_deviation": "8 MINS BEHIND",
+    "gtfs_stop_sequence_colour": "#FFFFCC",
+    "gtfs_stop_sequence_closest_stop": "Pippy Place - 32 (Downeast)",
+    "gtfs_stop_sequence_sched_difference_mins": -8,
+    "gtfs_stop_sequence_trip_id": "211784",
+    "gtfs_trip_id": "211784",
+    "gtfs_trip_id_history": "211784",
+    "gtfs_stop_sequence_actual": 7,
+    "gtfs_stop_sequence_actual_history": 7,
+    "gtfs_stop_sequence_max_trip": 7,
+    "gtfs_stop_last_known_status": "10-1 last status 8 MINS BEHIND @  6:46 AM",
+    "departure_time_at_closest_stop": "24000",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNW.png",
+    "shortstatus": "B8",
+    "requestip": "127.0.0.1      "
+  }
+]
