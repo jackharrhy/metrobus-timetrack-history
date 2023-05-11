@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "current_route": "10-1",
-    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Jobs Cove. Check bulletins for details.</p>",
-    "routenumber": 10,
-    "vehicle": "1066",
-    "time_stamp": "10:15 PM",
-    "deviation": "2 MINS AHEAD",
-    "service": "5",
-    "current_location": "Kelsey Drive - Walmart",
-    "bus_lat": "47.55835",
-    "bus_lon": "-52.78474",
-    "heading": "SW",
-    "speed": 3,
-    "position_time": "10:15 PM",
-    "position_time_seconds": 80134,
-    "gtfs_trip_headsign": "MUN - Downtown",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 2,
-    "gtfs_stop_sequence_deviation": "2 MINS AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Drive - Walmart",
-    "gtfs_stop_sequence_sched_difference_mins": 2,
-    "gtfs_stop_sequence_trip_id": "211730",
-    "gtfs_trip_id": "211730",
-    "gtfs_trip_id_history": "211773",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 19,
-    "gtfs_stop_sequence_max_trip": 19,
-    "gtfs_stop_last_known_status": "10-1 last status 2 MINS AHEAD @ 11:56 PM",
-    "departure_time_at_closest_stop": "78300",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSW.png",
-    "shortstatus": "A2",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
