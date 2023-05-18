@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Community Bus",
-    "current_route": "28-4",
-    "bulletin": "None",
-    "routenumber": 28,
-    "vehicle": "1498",
-    "time_stamp": "9:15 AM",
-    "deviation": null,
-    "service": "5",
-    "current_location": "Tap/click for location",
-    "bus_lat": "47.58996",
-    "bus_lon": "-52.71069",
-    "heading": "WSW",
-    "speed": 33,
-    "position_time": "9:15 AM",
-    "position_time_seconds": null,
-    "gtfs_trip_headsign": "Tap for location",
-    "colour": null,
-    "gtfs_service_id": null,
-    "wifi": null,
-    "gtfs_stop_sequence_status": null,
-    "gtfs_stop_sequence_mins_from_stop": null,
-    "gtfs_stop_sequence_deviation": null,
-    "gtfs_stop_sequence_colour": null,
-    "gtfs_stop_sequence_closest_stop": null,
-    "gtfs_stop_sequence_sched_difference_mins": null,
-    "gtfs_stop_sequence_trip_id": null,
-    "gtfs_trip_id": null,
-    "gtfs_trip_id_history": null,
-    "gtfs_stop_sequence_actual": null,
-    "gtfs_stop_sequence_actual_history": null,
-    "gtfs_stop_sequence_max_trip": null,
-    "gtfs_stop_last_known_status": null,
-    "departure_time_at_closest_stop": null,
-    "geo_coded_location": null,
-    "exception": "N",
-    "icon": "busiconWSW.png",
-    "shortstatus": "ND",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
