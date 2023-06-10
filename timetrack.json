@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 18-1",
+    "current_route": "18-1",
+    "bulletin": "<p>Route 18 detoured from Bay Bulls Road between Walsh's Lane and Old Bay Bulls Road. Check bulletins for details.</p>",
+    "routenumber": 18,
+    "vehicle": "859",
+    "time_stamp": "8:54 PM",
+    "deviation": "25 MINS BEHIND",
+    "service": "1",
+    "current_location": "The Village Shopping Centre",
+    "bus_lat": "47.55907",
+    "bus_lon": "-52.78466",
+    "heading": "NNW",
+    "speed": 2,
+    "position_time": "8:54 PM",
+    "position_time_seconds": 75296,
+    "gtfs_trip_headsign": "Kilbride - Goulds",
+    "colour": "#FFFFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "BEHIND",
+    "gtfs_stop_sequence_mins_from_stop": 25,
+    "gtfs_stop_sequence_deviation": "25 MINS BEHIND",
+    "gtfs_stop_sequence_colour": "#FFFFCC",
+    "gtfs_stop_sequence_closest_stop": "The Village Shopping Centre",
+    "gtfs_stop_sequence_sched_difference_mins": -25,
+    "gtfs_stop_sequence_trip_id": "212344",
+    "gtfs_trip_id": "212344",
+    "gtfs_trip_id_history": "212321",
+    "gtfs_stop_sequence_actual": 1,
+    "gtfs_stop_sequence_actual_history": 36,
+    "gtfs_stop_sequence_max_trip": 0,
+    "gtfs_stop_last_known_status": "18-1 last status NO HISTORY @ 6:00 AM",
+    "departure_time_at_closest_stop": "73800",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNW.png",
+    "shortstatus": "B25",
+    "requestip": "127.0.0.1      "
+  }
+]
