@@ -2,7 +2,7 @@
   {
     "routerun": "Rt 1-1",
     "current_route": "01-1",
-    "bulletin": "<p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 1,
     "vehicle": "1201",
     "time_stamp": "7:57 PM",
@@ -42,7 +42,7 @@
   {
     "routerun": "Rt 2-1",
     "current_route": "02-1",
-    "bulletin": "<p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 2,
     "vehicle": "1209",
     "time_stamp": "7:57 PM",
@@ -82,7 +82,7 @@
   {
     "routerun": "Rt 2-2",
     "current_route": "02-2",
-    "bulletin": "<p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 2,
     "vehicle": "1418",
     "time_stamp": "7:58 PM",
@@ -122,7 +122,7 @@
   {
     "routerun": "Rt 3-1",
     "current_route": "03-1",
-    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p><p>Route 3B is not able to service bus stop ID 2120 at the Wedgewood Medical Clinic. Please proceed to bus stop 2125 on Torbay Road opposite Jungle Jim's restaurant.</p><p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p><p>Route 3B is not able to service bus stop ID 2120 at the Wedgewood Medical Clinic. Please proceed to bus stop 2125 on Torbay Road opposite Jungle Jim's restaurant.</p>",
     "routenumber": 3,
     "vehicle": "1202",
     "time_stamp": "7:58 PM",
@@ -162,7 +162,7 @@
   {
     "routerun": "Rt 3-2",
     "current_route": "03-2",
-    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p><p>Route 3B is not able to service bus stop ID 2120 at the Wedgewood Medical Clinic. Please proceed to bus stop 2125 on Torbay Road opposite Jungle Jim's restaurant.</p><p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p><p>Route 3B is not able to service bus stop ID 2120 at the Wedgewood Medical Clinic. Please proceed to bus stop 2125 on Torbay Road opposite Jungle Jim's restaurant.</p>",
     "routenumber": 3,
     "vehicle": "1627",
     "time_stamp": "7:58 PM",
@@ -202,7 +202,7 @@
   {
     "routerun": "Rt 10-1",
     "current_route": "10-1",
-    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p><p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p>",
     "routenumber": 10,
     "vehicle": "1204",
     "time_stamp": "7:58 PM",
@@ -242,7 +242,7 @@
   {
     "routerun": "Rt 10-2",
     "current_route": "10-2",
-    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p><p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details.</p>",
     "routenumber": 10,
     "vehicle": "1203",
     "time_stamp": "7:57 PM",
@@ -282,7 +282,7 @@
   {
     "routerun": "Rt 12-1",
     "current_route": "12-1",
-    "bulletin": "<p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 12,
     "vehicle": "1205",
     "time_stamp": "7:57 PM",
@@ -322,7 +322,7 @@
   {
     "routerun": "Rt 15-1",
     "current_route": "15-1",
-    "bulletin": "<p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 15,
     "vehicle": "1522",
     "time_stamp": "7:59 PM",
@@ -362,7 +362,7 @@
   {
     "routerun": "Rt 18-1",
     "current_route": "18-1",
-    "bulletin": "<p>Route 18 detoured from Bay Bulls Road between Walsh's Lane and Old Bay Bulls Road. Check bulletins for details.</p><p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "<p>Route 18 detoured from Bay Bulls Road between Walsh's Lane and Old Bay Bulls Road. Check bulletins for details.</p>",
     "routenumber": 18,
     "vehicle": "1524",
     "time_stamp": "7:58 PM",
@@ -402,7 +402,7 @@
   {
     "routerun": "Rt 19-1",
     "current_route": "19-1",
-    "bulletin": "<p>Detours in effect Sunday for the Tely 10 Road Race. Check bulletins for details.</p>",
+    "bulletin": "None",
     "routenumber": 19,
     "vehicle": "1523",
     "time_stamp": "7:56 PM",
