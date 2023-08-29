@@ -2,7 +2,7 @@
   {
     "routerun": "Rt 1-1",
     "current_route": "01-1",
-    "bulletin": "None",
+    "bulletin": "<p>Routes 1, 14 not servicing Marine Institute on Friday from 1100a to 1230p. Check bulletins for details.</p>",
     "routenumber": 1,
     "vehicle": "1627",
     "time_stamp": "4:54 PM",
@@ -522,7 +522,7 @@
   {
     "routerun": "Rt 14-1",
     "current_route": "14-1",
-    "bulletin": "None",
+    "bulletin": "<p>Routes 1, 14 not servicing Marine Institute on Friday from 1100a to 1230p. Check bulletins for details.</p>",
     "routenumber": 14,
     "vehicle": "1206",
     "time_stamp": "4:54 PM",
