@@ -111,7 +111,7 @@
     "gtfs_stop_sequence_actual": 1,
     "gtfs_stop_sequence_actual_history": 1000,
     "gtfs_stop_sequence_max_trip": 1000,
-    "gtfs_stop_last_known_status": "01-4 last status 3 MINS AHEAD @ 10:21 AM",
+    "gtfs_stop_last_known_status": "01-4 last status NO HISTORY @ 6:00 AM",
     "departure_time_at_closest_stop": "39000",
     "geo_coded_location": "NOT QUERIED",
     "exception": "N",
