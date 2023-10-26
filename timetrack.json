@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 3-1",
+    "current_route": "03-1",
+    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details. This detour will end and service will return to Water Street starting November 1st, 2023.</p><p>Due to construction, routes 3 and 10 are not able to service Water Street between Cochrane Street and Prescott Street.</p>",
+    "routenumber": 3,
+    "vehicle": "1525",
+    "time_stamp": "10:08 PM",
+    "deviation": "1 MIN BEHIND",
+    "service": "5",
+    "current_location": "Topsail Rd - Burger King",
+    "bus_lat": "47.55872",
+    "bus_lon": "-52.78454",
+    "heading": "NOT AVAILABLE",
+    "speed": 0,
+    "position_time": "10:08 PM",
+    "position_time_seconds": 79704,
+    "gtfs_trip_headsign": "To Stavanger Drive",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "5",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 1,
+    "gtfs_stop_sequence_deviation": "1 MIN BEHIND",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Topsail Rd - Burger King",
+    "gtfs_stop_sequence_sched_difference_mins": -1,
+    "gtfs_stop_sequence_trip_id": "219925",
+    "gtfs_trip_id": "219925",
+    "gtfs_trip_id_history": "219963",
+    "gtfs_stop_sequence_actual": 3,
+    "gtfs_stop_sequence_actual_history": 18,
+    "gtfs_stop_sequence_max_trip": 18,
+    "gtfs_stop_last_known_status": "03-1 last status 1 MIN BEHIND @ 11:41 PM",
+    "departure_time_at_closest_stop": "77460",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busicon.png",
+    "shortstatus": "B1",
+    "requestip": "127.0.0.1      "
+  }
+]
