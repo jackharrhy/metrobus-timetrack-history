@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-1",
+    "current_route": "10-1",
+    "bulletin": "<p>Routes 3, 10 and 11 are detoured from Water Street between Waldegrave Street and Prescott Street. &nbsp;The Convention Centre bus stop is being serviced. Check bulletins for details. This detour will end and service will return to Water Street starting November 1st, 2023.</p><p>Due to construction, routes 3 and 10 are not able to service Water Street between Cochrane Street and Prescott Street.</p>",
+    "routenumber": 10,
+    "vehicle": "1521",
+    "time_stamp": "12:29 AM",
+    "deviation": "ON TIME",
+    "service": "5",
+    "current_location": "Avalon Mall - Upper Stop",
+    "bus_lat": "47.56426",
+    "bus_lon": "-52.76196",
+    "heading": "WNW",
+    "speed": 44,
+    "position_time": "12:29 AM",
+    "position_time_seconds": 88190,
+    "gtfs_trip_headsign": "MUN - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "5",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Avalon Mall - Upper Stop",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "218397",
+    "gtfs_trip_id": "218397",
+    "gtfs_trip_id_history": "218397",
+    "gtfs_stop_sequence_actual": 1000,
+    "gtfs_stop_sequence_actual_history": 1000,
+    "gtfs_stop_sequence_max_trip": 1000,
+    "gtfs_stop_last_known_status": "10-1 last status ON TIME @ 11:58 PM",
+    "departure_time_at_closest_stop": "1800",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconWNW.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
