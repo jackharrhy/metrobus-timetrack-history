@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Rt 1-2",
-    "current_route": "01-2",
-    "bulletin": "None",
-    "routenumber": 1,
-    "vehicle": "1520",
-    "time_stamp": "7:40 PM",
-    "deviation": "3 MINS AHEAD",
-    "service": "5",
-    "current_location": "Crosbie Rd - 30",
-    "bus_lat": "47.55848",
-    "bus_lon": "-52.78421",
-    "heading": "E",
-    "speed": 0,
-    "position_time": "7:40 PM",
-    "position_time_seconds": 70834,
-    "gtfs_trip_headsign": "To Institutes",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 3,
-    "gtfs_stop_sequence_deviation": "3 MINS AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Crosbie Rd - 30",
-    "gtfs_stop_sequence_sched_difference_mins": 3,
-    "gtfs_stop_sequence_trip_id": "219626",
-    "gtfs_trip_id": "219626",
-    "gtfs_trip_id_history": "221211",
-    "gtfs_stop_sequence_actual": 19,
-    "gtfs_stop_sequence_actual_history": 6,
-    "gtfs_stop_sequence_max_trip": 6,
-    "gtfs_stop_last_known_status": "01-2 last status 3 MINS AHEAD @ 11:55 PM",
-    "departure_time_at_closest_stop": "70200",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconE.png",
-    "shortstatus": "A3",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
