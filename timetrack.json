@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "149",
+    "time_stamp": "6:35 AM",
+    "deviation": "NO DATA",
+    "service": "1",
+    "current_location": "Water St - 240 Credit Union",
+    "bus_lat": "47.56364",
+    "bus_lon": "-52.71038",
+    "heading": "NNE",
+    "speed": 35,
+    "position_time": "6:35 AM",
+    "position_time_seconds": 23747,
+    "gtfs_trip_headsign": "Convention Centre",
+    "colour": "#E4E3E6",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 3,
+    "gtfs_stop_sequence_deviation": "NO DATA",
+    "gtfs_stop_sequence_colour": "#E4E3E6",
+    "gtfs_stop_sequence_closest_stop": "Water St - 240 Credit Union",
+    "gtfs_stop_sequence_sched_difference_mins": 3,
+    "gtfs_stop_sequence_trip_id": "220259",
+    "gtfs_trip_id": "220259",
+    "gtfs_trip_id_history": "220259",
+    "gtfs_stop_sequence_actual": 7,
+    "gtfs_stop_sequence_actual_history": 7,
+    "gtfs_stop_sequence_max_trip": 7,
+    "gtfs_stop_last_known_status": "10-3 last status UNKNOWN @  6:30 AM",
+    "departure_time_at_closest_stop": "23520",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNE.png",
+    "shortstatus": "ND",
+    "requestip": "127.0.0.1      "
+  }
+]
