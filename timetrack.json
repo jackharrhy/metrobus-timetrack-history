@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Rt 19-1",
-    "current_route": "19-1",
-    "bulletin": "None",
-    "routenumber": 19,
-    "vehicle": "755",
-    "time_stamp": "10:11 PM",
-    "deviation": "30 MINS BEHIND",
-    "service": "2",
-    "current_location": "Avalon Mall - Upper Stop",
-    "bus_lat": "47.55885",
-    "bus_lon": "-52.78581",
-    "heading": "SSE",
-    "speed": 6,
-    "position_time": "10:11 PM",
-    "position_time_seconds": 79883,
-    "gtfs_trip_headsign": "Crosbie Rd - Cowan Hgts - The Village",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "BEHIND",
-    "gtfs_stop_sequence_mins_from_stop": 30,
-    "gtfs_stop_sequence_deviation": "30 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Avalon Mall - Upper Stop",
-    "gtfs_stop_sequence_sched_difference_mins": -30,
-    "gtfs_stop_sequence_trip_id": "220905",
-    "gtfs_trip_id": "220905",
-    "gtfs_trip_id_history": "220894",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 1000,
-    "gtfs_stop_sequence_max_trip": 1000,
-    "gtfs_stop_last_known_status": "19-1 last status 2 MINS AHEAD @  7:52 PM",
-    "departure_time_at_closest_stop": "72000",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSSE.png",
-    "shortstatus": "B30",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
