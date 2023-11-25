@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "152",
+    "time_stamp": "6:38 AM",
+    "deviation": "1 MIN AHEAD",
+    "service": "1",
+    "current_location": "Top of Longs Hill",
+    "bus_lat": "47.56434",
+    "bus_lon": "-52.71450",
+    "heading": "W",
+    "speed": 23,
+    "position_time": "6:38 AM",
+    "position_time_seconds": 23912,
+    "gtfs_trip_headsign": "MUN - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "AHEAD",
+    "gtfs_stop_sequence_mins_from_stop": 1,
+    "gtfs_stop_sequence_deviation": "1 MIN AHEAD",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Top of Longs Hill",
+    "gtfs_stop_sequence_sched_difference_mins": 1,
+    "gtfs_stop_sequence_trip_id": "220286",
+    "gtfs_trip_id": "220286",
+    "gtfs_trip_id_history": "220286",
+    "gtfs_stop_sequence_actual": 5,
+    "gtfs_stop_sequence_actual_history": 5,
+    "gtfs_stop_sequence_max_trip": 5,
+    "gtfs_stop_last_known_status": "10-3 last status 1 MIN AHEAD @  6:38 AM",
+    "departure_time_at_closest_stop": "23940",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconW.png",
+    "shortstatus": "A1",
+    "requestip": "127.0.0.1      "
+  }
+]
