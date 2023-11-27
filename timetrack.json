@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-2",
-    "current_route": "10-2",
-    "bulletin": "<p>Detours in effect for routes 3, 10, 15 during downtown Christmas Parade on Sunday, December 3rd. Check bulletins for details.</p>",
-    "routenumber": 10,
-    "vehicle": "147",
-    "time_stamp": "1:18 PM",
-    "deviation": "2 MINS BEHIND",
-    "service": "2",
-    "current_location": "Kelsey Drive - Walmart",
-    "bus_lat": "47.55957",
-    "bus_lon": "-52.78417",
-    "heading": "SSE",
-    "speed": 20,
-    "position_time": "1:18 PM",
-    "position_time_seconds": 47894,
-    "gtfs_trip_headsign": "MUN - Downtown",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 2,
-    "gtfs_stop_sequence_deviation": "2 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Drive - Walmart",
-    "gtfs_stop_sequence_sched_difference_mins": -2,
-    "gtfs_stop_sequence_trip_id": "220296",
-    "gtfs_trip_id": "220296",
-    "gtfs_trip_id_history": "220315",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 13,
-    "gtfs_stop_sequence_max_trip": 13,
-    "gtfs_stop_last_known_status": "10-2 last status 2 MINS BEHIND @  8:17 PM",
-    "departure_time_at_closest_stop": "45300",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSSE.png",
-    "shortstatus": "B2",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
