@@ -1,7 +1,42 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 3-2",
+    "current_route": "03-2",
+    "bulletin": "<p>Due to construction, route 3 is not able to service bus stop ID 1975 on Water Street (Harbour Side Park).</p>",
+    "routenumber": 3,
+    "vehicle": "1203",
+    "time_stamp": "8:43 PM",
+    "deviation": "NO DATA",
+    "service": "2",
+    "current_location": "Torbay Road Mall",
+    "bus_lat": "47.55863",
+    "bus_lon": "-52.78447",
+    "heading": "NOT AVAILABLE",
+    "speed": 0,
+    "position_time": "8:43 PM",
+    "position_time_seconds": 74616,
+    "gtfs_trip_headsign": "Downtown - The Village",
+    "colour": "#E4E3E6",
+    "gtfs_service_id": "2",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 7,
+    "gtfs_stop_sequence_deviation": "NO DATA",
+    "gtfs_stop_sequence_colour": "#E4E3E6",
+    "gtfs_stop_sequence_closest_stop": "Torbay Road Mall",
+    "gtfs_stop_sequence_sched_difference_mins": 7,
+    "gtfs_stop_sequence_trip_id": "220066",
+    "gtfs_trip_id": "220066",
+    "gtfs_trip_id_history": "220066",
+    "gtfs_stop_sequence_actual": 1000,
+    "gtfs_stop_sequence_actual_history": 1000,
+    "gtfs_stop_sequence_max_trip": 1000,
+    "gtfs_stop_last_known_status": "03-2 last status 3 MINS BEHIND @  8:24 PM",
+    "departure_time_at_closest_stop": "75000",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busicon.png",
+    "shortstatus": "ND",
+    "requestip": "127.0.0.1      "
+  }
+]
