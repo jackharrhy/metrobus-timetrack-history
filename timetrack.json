@@ -1,42 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-1",
-    "current_route": "03-1",
-    "bulletin": "<p>Due to construction, route 3 is not able to service bus stop ID 1975 on Water Street (Harbour Side Park).</p>",
-    "routenumber": 3,
-    "vehicle": "1208",
-    "time_stamp": "12:12 AM",
-    "deviation": "1 MIN AHEAD",
-    "service": "5",
-    "current_location": "Topsail Road opposite McDonalds",
-    "bus_lat": "47.55849",
-    "bus_lon": "-52.78448",
-    "heading": "NOT AVAILABLE",
-    "speed": 0,
-    "position_time": "12:12 AM",
-    "position_time_seconds": 87175,
-    "gtfs_trip_headsign": "To The Village",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 1,
-    "gtfs_stop_sequence_deviation": "1 MIN AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Road opposite McDonalds",
-    "gtfs_stop_sequence_sched_difference_mins": 1,
-    "gtfs_stop_sequence_trip_id": "219963",
-    "gtfs_trip_id": "219963",
-    "gtfs_trip_id_history": "219963",
-    "gtfs_stop_sequence_actual": 56,
-    "gtfs_stop_sequence_actual_history": 56,
-    "gtfs_stop_sequence_max_trip": 56,
-    "gtfs_stop_last_known_status": "03-1 last status 1 MIN AHEAD @ 11:33 PM",
-    "departure_time_at_closest_stop": "1080",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busicon.png",
-    "shortstatus": "A1",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
