@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 2-1",
-    "routerunshort": "2-1",
-    "current_route": "02-1",
-    "bulletin": "None",
-    "routenumber": 2,
-    "vehicle": "1520",
-    "time_stamp": "6:32 PM",
-    "deviation": "2 MINS BEHIND",
-    "service": "5",
-    "current_location": "OLeary Avenue -  38 (Body Works)",
-    "bus_lat": "47.55896",
-    "bus_lon": "-52.78586",
-    "heading": "NOT AVAILABLE",
-    "speed": 0,
-    "position_time": "6:32 PM",
-    "position_time_seconds": 66751,
-    "gtfs_trip_headsign": "Avalon Mall - Virginia Park - The Village",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 2,
-    "gtfs_stop_sequence_deviation": "2 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "OLeary Avenue -  38 (Body Works)",
-    "gtfs_stop_sequence_sched_difference_mins": -2,
-    "gtfs_stop_sequence_trip_id": "224685",
-    "gtfs_trip_id": "224685",
-    "gtfs_trip_id_history": "224649",
-    "gtfs_stop_sequence_actual": 2,
-    "gtfs_stop_sequence_actual_history": 50,
-    "gtfs_stop_sequence_max_trip": 50,
-    "gtfs_stop_last_known_status": "02-1 last status 2 MINS BEHIND @ 11:31 PM",
-    "departure_time_at_closest_stop": "65760",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busicon.png",
-    "shortstatus": "B2",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
