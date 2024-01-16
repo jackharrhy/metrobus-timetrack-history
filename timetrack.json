@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-3",
-    "routerunshort": "3-3",
-    "current_route": "03-3",
-    "bulletin": "<p>Due to construction, route 3 is not able to service bus stop ID 1975 on Water Street (Harbour Side Park).</p>",
-    "routenumber": 3,
-    "vehicle": "1204",
-    "time_stamp": "11:36 PM",
-    "deviation": "9 MINS BEHIND",
-    "service": "5",
-    "current_location": "Topsail Rd - Burger King",
-    "bus_lat": "47.55813",
-    "bus_lon": "-52.78447",
-    "heading": "NE",
-    "speed": 1,
-    "position_time": "11:36 PM",
-    "position_time_seconds": 84983,
-    "gtfs_trip_headsign": "Stavanger Dr",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 9,
-    "gtfs_stop_sequence_deviation": "9 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Rd - Burger King",
-    "gtfs_stop_sequence_sched_difference_mins": -9,
-    "gtfs_stop_sequence_trip_id": "224835",
-    "gtfs_trip_id": "224835",
-    "gtfs_trip_id_history": "224872",
-    "gtfs_stop_sequence_actual": 3,
-    "gtfs_stop_sequence_actual_history": 11,
-    "gtfs_stop_sequence_max_trip": 11,
-    "gtfs_stop_last_known_status": "03-3 last status 9 MINS BEHIND @ 11:50 PM",
-    "departure_time_at_closest_stop": "84660",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNE.png",
-    "shortstatus": "B9",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
