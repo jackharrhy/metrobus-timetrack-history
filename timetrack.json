@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 1-2",
+    "routerunshort": "1-2",
+    "current_route": "01-2",
+    "bulletin": "None",
+    "routenumber": 1,
+    "vehicle": "1522",
+    "time_stamp": "10:26 PM",
+    "deviation": "11 MINS BEHIND",
+    "service": "5",
+    "current_location": "Crosbie Road civic 13",
+    "bus_lat": "47.55845",
+    "bus_lon": "-52.78455",
+    "heading": "SSW",
+    "speed": 0,
+    "position_time": "10:26 PM",
+    "position_time_seconds": 80783,
+    "gtfs_trip_headsign": "To Village",
+    "colour": "#FFFFCC",
+    "gtfs_service_id": "5",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 11,
+    "gtfs_stop_sequence_deviation": "11 MINS BEHIND",
+    "gtfs_stop_sequence_colour": "#FFFFCC",
+    "gtfs_stop_sequence_closest_stop": "Crosbie Road civic 13",
+    "gtfs_stop_sequence_sched_difference_mins": -11,
+    "gtfs_stop_sequence_trip_id": "226186",
+    "gtfs_trip_id": "226186",
+    "gtfs_trip_id_history": "226188",
+    "gtfs_stop_sequence_actual": 16,
+    "gtfs_stop_sequence_actual_history": 17,
+    "gtfs_stop_sequence_max_trip": 17,
+    "gtfs_stop_last_known_status": "01-2 last status 11 MINS BEHIND @ 11:27 PM",
+    "departure_time_at_closest_stop": "80100",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconSSW.png",
+    "shortstatus": "B11",
+    "requestip": "127.0.0.1      "
+  }
+]
