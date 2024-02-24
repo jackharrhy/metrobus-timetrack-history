@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 1-1",
-    "routerunshort": "1-1",
-    "current_route": "01-1",
-    "bulletin": "None",
-    "routenumber": 1,
-    "vehicle": "1310",
-    "time_stamp": "7:45 PM",
-    "deviation": "5 MINS BEHIND",
-    "service": "1",
-    "current_location": "Crosbie Rd civic 30",
-    "bus_lat": "47.55838",
-    "bus_lon": "-52.78420",
-    "heading": "WNW",
-    "speed": 0,
-    "position_time": "7:45 PM",
-    "position_time_seconds": 71137,
-    "gtfs_trip_headsign": "MUN-CNA-MI",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "1",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "BEHIND",
-    "gtfs_stop_sequence_mins_from_stop": 5,
-    "gtfs_stop_sequence_deviation": "5 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Crosbie Rd civic 30",
-    "gtfs_stop_sequence_sched_difference_mins": -5,
-    "gtfs_stop_sequence_trip_id": "226208",
-    "gtfs_trip_id": "226208",
-    "gtfs_trip_id_history": "226160",
-    "gtfs_stop_sequence_actual": 19,
-    "gtfs_stop_sequence_actual_history": 1000,
-    "gtfs_stop_sequence_max_trip": 0,
-    "gtfs_stop_last_known_status": "01-1 last status NO HISTORY @ 6:00 AM",
-    "departure_time_at_closest_stop": "70800",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconWNW.png",
-    "shortstatus": "B5",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
