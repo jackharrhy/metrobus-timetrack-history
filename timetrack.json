@@ -413,7 +413,7 @@
     "routerun": "Rt 15-1",
     "routerunshort": "15-1",
     "current_route": "15-1",
-    "bulletin": "<p>Route 15 detoured in Cuckhold&#39;s Cove due to water main break. &nbsp;We are not able to service STOP ID &nbsp;3545.</p>",
+    "bulletin": "None",
     "routenumber": 15,
     "vehicle": "152",
     "time_stamp": "9:00 PM",
