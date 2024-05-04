@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Detoured scheduled for route 10 from Elizabeth Avenue and Westerland Road. Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "754",
+    "time_stamp": "6:39 AM",
+    "deviation": "1 MIN AHEAD",
+    "service": "1",
+    "current_location": "Merrymeeting Rd civic 32",
+    "bus_lat": "47.56582",
+    "bus_lon": "-52.71758",
+    "heading": "WSW",
+    "speed": 0,
+    "position_time": "6:39 AM",
+    "position_time_seconds": 23968,
+    "gtfs_trip_headsign": "MUN - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "AHEAD",
+    "gtfs_stop_sequence_mins_from_stop": 1,
+    "gtfs_stop_sequence_deviation": "1 MIN AHEAD",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Merrymeeting Rd civic 32",
+    "gtfs_stop_sequence_sched_difference_mins": 1,
+    "gtfs_stop_sequence_trip_id": "226801",
+    "gtfs_trip_id": "226801",
+    "gtfs_trip_id_history": "226801",
+    "gtfs_stop_sequence_actual": 7,
+    "gtfs_stop_sequence_actual_history": 6,
+    "gtfs_stop_sequence_max_trip": 6,
+    "gtfs_stop_last_known_status": "10-3 last status 1 MIN AHEAD @  6:38 AM",
+    "departure_time_at_closest_stop": "24000",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconWSW.png",
+    "shortstatus": "A1",
+    "requestip": "127.0.0.1      "
+  }
+]
