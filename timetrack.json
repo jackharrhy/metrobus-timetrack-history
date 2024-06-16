@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 18-1",
-    "routerunshort": "18-1",
-    "current_route": "18-1",
-    "bulletin": "None",
-    "routenumber": 18,
-    "vehicle": "152",
-    "time_stamp": "4:25 PM",
-    "deviation": "3 MINS AHEAD",
-    "service": "2",
-    "current_location": "The Village Shopping Centre",
-    "bus_lat": "47.55835",
-    "bus_lon": "-52.78503",
-    "heading": "NNE",
-    "speed": 4,
-    "position_time": "4:25 PM",
-    "position_time_seconds": 59154,
-    "gtfs_trip_headsign": "To Goulds",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 3,
-    "gtfs_stop_sequence_deviation": "3 MINS AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "The Village Shopping Centre",
-    "gtfs_stop_sequence_sched_difference_mins": 3,
-    "gtfs_stop_sequence_trip_id": "227295",
-    "gtfs_trip_id": "227295",
-    "gtfs_trip_id_history": "227310",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 1000,
-    "gtfs_stop_sequence_max_trip": 1000,
-    "gtfs_stop_last_known_status": "18-1 last status 3 MINS AHEAD @  8:25 PM",
-    "departure_time_at_closest_stop": "58500",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNNE.png",
-    "shortstatus": "A3",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
