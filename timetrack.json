@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 2-2",
-    "routerunshort": "2-2",
-    "current_route": "02-2",
-    "bulletin": "<p>Route 2 detoured from Elizabeth Avenue between Baltimore St and Anderson Ave starting May 30th. Check bulletins for details.</p>",
-    "routenumber": 2,
-    "vehicle": "1202",
-    "time_stamp": "12:44 AM",
-    "deviation": "25 MINS BEHIND",
-    "service": "5",
-    "current_location": "Peet Street - CORAS Restaurant",
-    "bus_lat": "47.55813",
-    "bus_lon": "-52.78468",
-    "heading": "SE",
-    "speed": 2,
-    "position_time": "12:44 AM",
-    "position_time_seconds": 89073,
-    "gtfs_trip_headsign": "To Village",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 25,
-    "gtfs_stop_sequence_deviation": "25 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Peet Street - CORAS Restaurant",
-    "gtfs_stop_sequence_sched_difference_mins": -25,
-    "gtfs_stop_sequence_trip_id": "226312",
-    "gtfs_trip_id": "226312",
-    "gtfs_trip_id_history": "226312",
-    "gtfs_stop_sequence_actual": 3,
-    "gtfs_stop_sequence_actual_history": 3,
-    "gtfs_stop_sequence_max_trip": 3,
-    "gtfs_stop_last_known_status": "02-2 last status 25 MINS BEHIND @ 11:57 PM",
-    "departure_time_at_closest_stop": "84660",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSE.png",
-    "shortstatus": "B25",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
