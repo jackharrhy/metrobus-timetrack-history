@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 1-2",
-    "routerunshort": "1-2",
-    "current_route": "01-2",
-    "bulletin": "None",
-    "routenumber": 1,
-    "vehicle": "1206",
-    "time_stamp": "12:26 AM",
-    "deviation": "6 MINS BEHIND",
-    "service": "5",
-    "current_location": "Crosbie Road civic 13",
-    "bus_lat": "47.55890",
-    "bus_lon": "-52.78427",
-    "heading": "NNW",
-    "speed": 2,
-    "position_time": "12:26 AM",
-    "position_time_seconds": 87990,
-    "gtfs_trip_headsign": "Crosbie Rd - The Village",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 6,
-    "gtfs_stop_sequence_deviation": "6 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Crosbie Road civic 13",
-    "gtfs_stop_sequence_sched_difference_mins": -6,
-    "gtfs_stop_sequence_trip_id": "231065",
-    "gtfs_trip_id": "231065",
-    "gtfs_trip_id_history": "231065",
-    "gtfs_stop_sequence_actual": 16,
-    "gtfs_stop_sequence_actual_history": 16,
-    "gtfs_stop_sequence_max_trip": 16,
-    "gtfs_stop_last_known_status": "01-2 last status 6 MINS BEHIND @ 11:51 PM",
-    "departure_time_at_closest_stop": "900",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNNW.png",
-    "shortstatus": "B6",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
