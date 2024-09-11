@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "routerunshort": "10-1",
-    "current_route": "10-1",
-    "bulletin": "<p>Route 10 detoured from Elizabeth Avenue between Freshwater Road and Anderson Avenue. Check bulletins for details.</p>",
-    "routenumber": 10,
-    "vehicle": "858",
-    "time_stamp": "8:43 PM",
-    "deviation": "3 MINS AHEAD",
-    "service": "5",
-    "current_location": "Kelsey Drive Walmart",
-    "bus_lat": "47.55842",
-    "bus_lon": "-52.78472",
-    "heading": "NW",
-    "speed": 0,
-    "position_time": "8:43 PM",
-    "position_time_seconds": 74631,
-    "gtfs_trip_headsign": "Avalon Mall - MUN Centre - Downtown",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 3,
-    "gtfs_stop_sequence_deviation": "3 MINS AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Drive Walmart",
-    "gtfs_stop_sequence_sched_difference_mins": 3,
-    "gtfs_stop_sequence_trip_id": "231551",
-    "gtfs_trip_id": "231551",
-    "gtfs_trip_id_history": "231553",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 1000,
-    "gtfs_stop_sequence_max_trip": 1000,
-    "gtfs_stop_last_known_status": "10-1 last status 3 MINS AHEAD @ 11:59 PM",
-    "departure_time_at_closest_stop": "72300",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNW.png",
-    "shortstatus": "A3",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
