@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Route 10 detoured from Elizabeth Avenue between Freshwater Road and Anderson Avenue. Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "1628",
+    "time_stamp": "6:36 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Gower St civic 193",
+    "bus_lat": "47.56525",
+    "bus_lon": "-52.70893",
+    "heading": "NNE",
+    "speed": 20,
+    "position_time": "6:36 AM",
+    "position_time_seconds": 23811,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Gower St civic 193",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "231678",
+    "gtfs_trip_id": "231678",
+    "gtfs_trip_id_history": "231678",
+    "gtfs_stop_sequence_actual": 3,
+    "gtfs_stop_sequence_actual_history": 3,
+    "gtfs_stop_sequence_max_trip": 3,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:36 AM",
+    "departure_time_at_closest_stop": "23820",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNE.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
