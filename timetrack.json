@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-1",
-    "routerunshort": "3-1",
-    "current_route": "03-1",
-    "bulletin": "None",
-    "routenumber": 3,
-    "vehicle": "1419",
-    "time_stamp": "11:46 PM",
-    "deviation": "NO DATA",
-    "service": "5",
-    "current_location": "Topsail Road opposite McDonalds",
-    "bus_lat": "47.55880",
-    "bus_lon": "-52.78423",
-    "heading": "NE",
-    "speed": 2,
-    "position_time": "11:46 PM",
-    "position_time_seconds": 85617,
-    "gtfs_trip_headsign": "The Village",
-    "colour": "#E4E3E6",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 32,
-    "gtfs_stop_sequence_deviation": "NO DATA",
-    "gtfs_stop_sequence_colour": "#E4E3E6",
-    "gtfs_stop_sequence_closest_stop": "Topsail Road opposite McDonalds",
-    "gtfs_stop_sequence_sched_difference_mins": -32,
-    "gtfs_stop_sequence_trip_id": "232643",
-    "gtfs_trip_id": "232643",
-    "gtfs_trip_id_history": "232643",
-    "gtfs_stop_sequence_actual": 56,
-    "gtfs_stop_sequence_actual_history": 56,
-    "gtfs_stop_sequence_max_trip": 56,
-    "gtfs_stop_last_known_status": "03-1 last status 32 MINS BEHIND @ 11:38 PM",
-    "departure_time_at_closest_stop": "1080",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNE.png",
-    "shortstatus": "ND",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
