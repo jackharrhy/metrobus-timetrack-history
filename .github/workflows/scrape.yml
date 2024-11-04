@@ -6,14 +6,16 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
     - name: Fetch latest data
       run: |-
         curl https://www.metrobus.co.ca/api/timetrack/json/ | jq . > timetrack.json
