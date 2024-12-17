@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-3",
-    "routerunshort": "3-3",
-    "current_route": "03-3",
-    "bulletin": "None",
-    "routenumber": 3,
-    "vehicle": "1520",
-    "time_stamp": "8:46 PM",
-    "deviation": "25 MINS BEHIND",
-    "service": "5",
-    "current_location": "Topsail Road civic 520 Burger King",
-    "bus_lat": "47.55840",
-    "bus_lon": "-52.78467",
-    "heading": "WSW",
-    "speed": 2,
-    "position_time": "8:46 PM",
-    "position_time_seconds": 74773,
-    "gtfs_trip_headsign": "Downtown - Stavanger Dr",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 25,
-    "gtfs_stop_sequence_deviation": "25 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Road civic 520 Burger King",
-    "gtfs_stop_sequence_sched_difference_mins": -25,
-    "gtfs_stop_sequence_trip_id": "232615",
-    "gtfs_trip_id": "232615",
-    "gtfs_trip_id_history": "232617",
-    "gtfs_stop_sequence_actual": 3,
-    "gtfs_stop_sequence_actual_history": 43,
-    "gtfs_stop_sequence_max_trip": 43,
-    "gtfs_stop_last_known_status": "03-3 last status 25 MINS BEHIND @ 11:56 PM",
-    "departure_time_at_closest_stop": "73560",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconWSW.png",
-    "shortstatus": "B25",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
