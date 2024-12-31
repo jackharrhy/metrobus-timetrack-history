@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 2-1",
-    "routerunshort": "2-1",
-    "current_route": "02-1",
-    "bulletin": "None",
-    "routenumber": 2,
-    "vehicle": "1523",
-    "time_stamp": "9:58 PM",
-    "deviation": "ON TIME",
-    "service": "5",
-    "current_location": "Avalon Mall",
-    "bus_lat": "47.55813",
-    "bus_lon": "-52.78500",
-    "heading": "SSW",
-    "speed": 2,
-    "position_time": "9:58 PM",
-    "position_time_seconds": 79101,
-    "gtfs_trip_headsign": "Virginia Park - Avalon Mall",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 0,
-    "gtfs_stop_sequence_deviation": "ON TIME",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Avalon Mall",
-    "gtfs_stop_sequence_sched_difference_mins": 0,
-    "gtfs_stop_sequence_trip_id": "231142",
-    "gtfs_trip_id": "231142",
-    "gtfs_trip_id_history": "231143",
-    "gtfs_stop_sequence_actual": 1000,
-    "gtfs_stop_sequence_actual_history": 50,
-    "gtfs_stop_sequence_max_trip": 50,
-    "gtfs_stop_last_known_status": "02-1 last status ON TIME @ 11:59 PM",
-    "departure_time_at_closest_stop": "81000",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSSW.png",
-    "shortstatus": "OT",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
