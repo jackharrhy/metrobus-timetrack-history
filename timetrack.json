@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "routerunshort": "10-1",
-    "current_route": "10-1",
-    "bulletin": "None",
-    "routenumber": 10,
-    "vehicle": "965",
-    "time_stamp": "10:05 PM",
-    "deviation": "6 MINS BEHIND",
-    "service": "5",
-    "current_location": "Kelsey Drive Walmart",
-    "bus_lat": "47.55840",
-    "bus_lon": "-52.78443",
-    "heading": "WSW",
-    "speed": 4,
-    "position_time": "10:05 PM",
-    "position_time_seconds": 79515,
-    "gtfs_trip_headsign": "Avalon Mall - MUN Centre - Downtown",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 6,
-    "gtfs_stop_sequence_deviation": "6 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Drive Walmart",
-    "gtfs_stop_sequence_sched_difference_mins": -6,
-    "gtfs_stop_sequence_trip_id": "236570",
-    "gtfs_trip_id": "236570",
-    "gtfs_trip_id_history": "236613",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 1000,
-    "gtfs_stop_sequence_max_trip": 1000,
-    "gtfs_stop_last_known_status": "10-1 last status 6 MINS BEHIND @ 11:09 PM",
-    "departure_time_at_closest_stop": "77760",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconWSW.png",
-    "shortstatus": "B6",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
