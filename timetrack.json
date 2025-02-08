@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "963",
+    "time_stamp": "6:35 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Water Street civic 294",
+    "bus_lat": "47.56232",
+    "bus_lon": "-52.71107",
+    "heading": "NNE",
+    "speed": 35,
+    "position_time": "6:35 AM",
+    "position_time_seconds": 23758,
+    "gtfs_trip_headsign": "Convention Centre",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Water Street civic 294",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "236669",
+    "gtfs_trip_id": "236669",
+    "gtfs_trip_id_history": "236669",
+    "gtfs_stop_sequence_actual": 8,
+    "gtfs_stop_sequence_actual_history": 8,
+    "gtfs_stop_sequence_max_trip": 8,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:35 AM",
+    "departure_time_at_closest_stop": "23580",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNE.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
