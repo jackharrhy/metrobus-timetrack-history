@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 18-1",
-    "routerunshort": "18-1",
-    "current_route": "18-1",
-    "bulletin": "None",
-    "routenumber": 18,
-    "vehicle": "964",
-    "time_stamp": "11:59 PM",
-    "deviation": "3 MINS AHEAD",
-    "service": "1",
-    "current_location": "The Village",
-    "bus_lat": "47.55838",
-    "bus_lon": "-52.78450",
-    "heading": "WNW",
-    "speed": 0,
-    "position_time": "11:59 PM",
-    "position_time_seconds": 86344,
-    "gtfs_trip_headsign": "Kilbride - Goulds",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "1",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 3,
-    "gtfs_stop_sequence_deviation": "3 MINS AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "The Village",
-    "gtfs_stop_sequence_sched_difference_mins": 3,
-    "gtfs_stop_sequence_trip_id": "237183",
-    "gtfs_trip_id": "237183",
-    "gtfs_trip_id_history": "237199",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 17,
-    "gtfs_stop_sequence_max_trip": 17,
-    "gtfs_stop_last_known_status": "18-1 last status 3 MINS AHEAD @ 11:56 PM",
-    "departure_time_at_closest_stop": "84600",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconWNW.png",
-    "shortstatus": "A3",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
