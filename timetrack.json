@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "859",
+    "time_stamp": "6:37 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Gower St civic 193",
+    "bus_lat": "47.56512",
+    "bus_lon": "-52.70910",
+    "heading": "NE",
+    "speed": 28,
+    "position_time": "6:37 AM",
+    "position_time_seconds": 23875,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "ON TIME",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Gower St civic 193",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "236696",
+    "gtfs_trip_id": "236696",
+    "gtfs_trip_id_history": "236696",
+    "gtfs_stop_sequence_actual": 3,
+    "gtfs_stop_sequence_actual_history": 3,
+    "gtfs_stop_sequence_max_trip": 3,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:37 AM",
+    "departure_time_at_closest_stop": "23820",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNE.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
