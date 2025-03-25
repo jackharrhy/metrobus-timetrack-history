@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 1-2",
-    "routerunshort": "1-2",
-    "current_route": "01-2",
-    "bulletin": "None",
-    "routenumber": 1,
-    "vehicle": "2441",
-    "time_stamp": "6:19 PM",
-    "deviation": "10 MINS BEHIND",
-    "service": "5",
-    "current_location": "Crosbie Road civic 30",
-    "bus_lat": "47.55847",
-    "bus_lon": "-52.78432",
-    "heading": "NOT AVAILABLE",
-    "speed": 2,
-    "position_time": "6:19 PM",
-    "position_time_seconds": 65997,
-    "gtfs_trip_headsign": "Crosbie Rd - Institutes",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": null,
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 10,
-    "gtfs_stop_sequence_deviation": "10 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Crosbie Road civic 30",
-    "gtfs_stop_sequence_sched_difference_mins": -10,
-    "gtfs_stop_sequence_trip_id": "235994",
-    "gtfs_trip_id": "235994",
-    "gtfs_trip_id_history": "236083",
-    "gtfs_stop_sequence_actual": 19,
-    "gtfs_stop_sequence_actual_history": 7,
-    "gtfs_stop_sequence_max_trip": 7,
-    "gtfs_stop_last_known_status": "01-2 last status 10 MINS BEHIND @ 11:56 PM",
-    "departure_time_at_closest_stop": "66300",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busicon.png",
-    "shortstatus": "B10",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
