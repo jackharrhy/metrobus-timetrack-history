@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "755",
+    "time_stamp": "6:39 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Parade Street RNC building",
+    "bus_lat": "47.56613",
+    "bus_lon": "-52.71563",
+    "heading": "NNW",
+    "speed": 18,
+    "position_time": "6:39 AM",
+    "position_time_seconds": 23960,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "ON TIME",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Parade Street RNC building",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "236696",
+    "gtfs_trip_id": "236696",
+    "gtfs_trip_id_history": "236696",
+    "gtfs_stop_sequence_actual": 5,
+    "gtfs_stop_sequence_actual_history": 5,
+    "gtfs_stop_sequence_max_trip": 5,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:38 AM",
+    "departure_time_at_closest_stop": "23940",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNW.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
