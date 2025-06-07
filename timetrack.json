@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "962",
+    "time_stamp": "6:34 AM",
+    "deviation": "UNKNOWN",
+    "service": "1",
+    "current_location": "Water Street Convention Centre",
+    "bus_lat": "47.55938",
+    "bus_lon": "-52.71175",
+    "heading": "SSW",
+    "speed": 0,
+    "position_time": "6:34 AM",
+    "position_time_seconds": 23666,
+    "gtfs_trip_headsign": "Convention Centre",
+    "colour": "#E4E3E6",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "UNKNOWN",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "UNKNOWN",
+    "gtfs_stop_sequence_colour": "#E4E3E6",
+    "gtfs_stop_sequence_closest_stop": "Water Street Convention Centre",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "236669",
+    "gtfs_trip_id": "236669",
+    "gtfs_trip_id_history": "0",
+    "gtfs_stop_sequence_actual": 1000,
+    "gtfs_stop_sequence_actual_history": 0,
+    "gtfs_stop_sequence_max_trip": 0,
+    "gtfs_stop_last_known_status": "last status unknown",
+    "departure_time_at_closest_stop": "23700",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconSSW.png",
+    "shortstatus": "ND",
+    "requestip": "127.0.0.1      "
+  }
+]
