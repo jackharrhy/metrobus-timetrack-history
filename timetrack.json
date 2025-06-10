@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "routerunshort": "10-1",
-    "current_route": "10-1",
-    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p>",
-    "routenumber": 10,
-    "vehicle": "1205",
-    "time_stamp": "8:40 PM",
-    "deviation": "1 MIN AHEAD",
-    "service": "5",
-    "current_location": "Kelsey Drive Walmart",
-    "bus_lat": "47.55857",
-    "bus_lon": "-52.78433",
-    "heading": "SW",
-    "speed": 0,
-    "position_time": "8:40 PM",
-    "position_time_seconds": 74457,
-    "gtfs_trip_headsign": "Avalon Mall - MUN Centre - Downtown",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 1,
-    "gtfs_stop_sequence_deviation": "1 MIN AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Drive Walmart",
-    "gtfs_stop_sequence_sched_difference_mins": 1,
-    "gtfs_stop_sequence_trip_id": "236569",
-    "gtfs_trip_id": "236569",
-    "gtfs_trip_id_history": "236613",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 21,
-    "gtfs_stop_sequence_max_trip": 21,
-    "gtfs_stop_last_known_status": "10-1 last status 1 MIN AHEAD @ 11:59 PM",
-    "departure_time_at_closest_stop": "72300",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSW.png",
-    "shortstatus": "A1",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
