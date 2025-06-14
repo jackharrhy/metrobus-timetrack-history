@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "755",
+    "time_stamp": "6:36 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Queens Road Majestic Theatre",
+    "bus_lat": "47.56225",
+    "bus_lon": "-52.70912",
+    "heading": "SSW",
+    "speed": 33,
+    "position_time": "6:36 AM",
+    "position_time_seconds": 23798,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Queens Road Majestic Theatre",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "236696",
+    "gtfs_trip_id": "236696",
+    "gtfs_trip_id_history": "236696",
+    "gtfs_stop_sequence_actual": 2,
+    "gtfs_stop_sequence_actual_history": 2,
+    "gtfs_stop_sequence_max_trip": 2,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:36 AM",
+    "departure_time_at_closest_stop": "23820",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconSSW.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
