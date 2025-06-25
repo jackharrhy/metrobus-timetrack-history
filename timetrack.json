@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 1-2",
-    "routerunshort": "1-2",
-    "current_route": "01-2",
-    "bulletin": "None",
-    "routenumber": 1,
-    "vehicle": "1628",
-    "time_stamp": "6:07 PM",
-    "deviation": "12 MINS BEHIND",
-    "service": "5",
-    "current_location": "Crosbie Road civic 13",
-    "bus_lat": "47.55855",
-    "bus_lon": "-52.78403",
-    "heading": "ENE",
-    "speed": 2,
-    "position_time": "6:07 PM",
-    "position_time_seconds": 65252,
-    "gtfs_trip_headsign": "Crosbie Rd - The Village",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "BEHIND",
-    "gtfs_stop_sequence_mins_from_stop": 12,
-    "gtfs_stop_sequence_deviation": "12 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Crosbie Road civic 13",
-    "gtfs_stop_sequence_sched_difference_mins": -12,
-    "gtfs_stop_sequence_trip_id": "239419",
-    "gtfs_trip_id": "239419",
-    "gtfs_trip_id_history": "241066",
-    "gtfs_stop_sequence_actual": 16,
-    "gtfs_stop_sequence_actual_history": 32,
-    "gtfs_stop_sequence_max_trip": 32,
-    "gtfs_stop_last_known_status": "01-2 last status 1 MIN AHEAD @ 12:22 AM",
-    "departure_time_at_closest_stop": "64500",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconENE.png",
-    "shortstatus": "B12",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
