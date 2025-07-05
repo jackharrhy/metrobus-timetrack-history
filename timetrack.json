@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p><p>Water Street detour starts Monday, June 23. Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "2440",
+    "time_stamp": "6:41 AM",
+    "deviation": "2 MINS AHEAD",
+    "service": "1",
+    "current_location": "Freshwater Road civic 232",
+    "bus_lat": "47.56322",
+    "bus_lon": "-52.73193",
+    "heading": "W",
+    "speed": 44,
+    "position_time": "6:41 AM",
+    "position_time_seconds": 24115,
+    "gtfs_trip_headsign": "MUN - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": null,
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 2,
+    "gtfs_stop_sequence_deviation": "2 MINS AHEAD",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Freshwater Road civic 232",
+    "gtfs_stop_sequence_sched_difference_mins": 2,
+    "gtfs_stop_sequence_trip_id": "240022",
+    "gtfs_trip_id": "240022",
+    "gtfs_trip_id_history": "240022",
+    "gtfs_stop_sequence_actual": 11,
+    "gtfs_stop_sequence_actual_history": 10,
+    "gtfs_stop_sequence_max_trip": 10,
+    "gtfs_stop_last_known_status": "10-3 last status 2 MINS AHEAD @  6:41 AM",
+    "departure_time_at_closest_stop": "24300",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconW.png",
+    "shortstatus": "A2",
+    "requestip": "127.0.0.1      "
+  }
+]
