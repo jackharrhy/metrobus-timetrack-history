@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Detours scheduled for routes 3 and 10 during Pride Parade on Sunday, July 20th. Check bulletins for details.</p><p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p><p>Water Street detour starts Monday, June 23. Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "1207",
+    "time_stamp": "6:35 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Water Street Convention Centre",
+    "bus_lat": "47.56108",
+    "bus_lon": "-52.71193",
+    "heading": "NNE",
+    "speed": 48,
+    "position_time": "6:35 AM",
+    "position_time_seconds": 23749,
+    "gtfs_trip_headsign": "Convention Centre",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "ON TIME",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Water Street Convention Centre",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "239995",
+    "gtfs_trip_id": "239995",
+    "gtfs_trip_id_history": "239995",
+    "gtfs_stop_sequence_actual": 1000,
+    "gtfs_stop_sequence_actual_history": 1000,
+    "gtfs_stop_sequence_max_trip": 1000,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:35 AM",
+    "departure_time_at_closest_stop": "23700",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNE.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
