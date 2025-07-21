@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-2",
-    "routerunshort": "3-2",
-    "current_route": "03-2",
-    "bulletin": "<p>Detours scheduled for routes 3 and 10 during Pride Parade on Sunday, July 20th. Check bulletins for details.</p><p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p><p>Water Street detour starts Monday, June 23. Check bulletins for details.</p>",
-    "routenumber": 3,
-    "vehicle": "1203",
-    "time_stamp": "6:04 PM",
-    "deviation": "2 MINS BEHIND",
-    "service": "2",
-    "current_location": "Topsail Road opposite McDonalds",
-    "bus_lat": "47.55862",
-    "bus_lon": "-52.78422",
-    "heading": "SSW",
-    "speed": 2,
-    "position_time": "6:04 PM",
-    "position_time_seconds": 65068,
-    "gtfs_trip_headsign": "Downtown - The Village",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 2,
-    "gtfs_stop_sequence_deviation": "2 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Road opposite McDonalds",
-    "gtfs_stop_sequence_sched_difference_mins": -2,
-    "gtfs_stop_sequence_trip_id": "239814",
-    "gtfs_trip_id": "239814",
-    "gtfs_trip_id_history": "239800",
-    "gtfs_stop_sequence_actual": 55,
-    "gtfs_stop_sequence_actual_history": 27,
-    "gtfs_stop_sequence_max_trip": 27,
-    "gtfs_stop_last_known_status": "03-2 last status 2 MINS BEHIND @  8:10 PM",
-    "departure_time_at_closest_stop": "66180",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSSW.png",
-    "shortstatus": "B2",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
