@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "routerunshort": "10-1",
-    "current_route": "10-1",
-    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p><p>Water Street detour starts Monday, June 23. Check bulletins for details.</p><p>Detours in effect for routes 2 and 10 starting August 8th. Check bulletins for details.</p>",
-    "routenumber": 10,
-    "vehicle": "1310",
-    "time_stamp": "7:51 PM",
-    "deviation": "ON TIME",
-    "service": "5",
-    "current_location": "Kelsey Drive civic 125",
-    "bus_lat": "47.55825",
-    "bus_lon": "-52.78470",
-    "heading": "SW",
-    "speed": 4,
-    "position_time": "7:51 PM",
-    "position_time_seconds": 71482,
-    "gtfs_trip_headsign": "MUN - Avalon Mall - Kelsey Dr",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 0,
-    "gtfs_stop_sequence_deviation": "ON TIME",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Drive civic 125",
-    "gtfs_stop_sequence_sched_difference_mins": 0,
-    "gtfs_stop_sequence_trip_id": "239943",
-    "gtfs_trip_id": "239943",
-    "gtfs_trip_id_history": "239946",
-    "gtfs_stop_sequence_actual": 27,
-    "gtfs_stop_sequence_actual_history": 8,
-    "gtfs_stop_sequence_max_trip": 8,
-    "gtfs_stop_last_known_status": "10-1 last status ON TIME @ 11:59 PM",
-    "departure_time_at_closest_stop": "72180",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSW.png",
-    "shortstatus": "OT",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
