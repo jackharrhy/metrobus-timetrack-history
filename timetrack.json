@@ -3,7 +3,7 @@
     "routerun": "Rt 10-1",
     "routerunshort": "10-1",
     "current_route": "10-1",
-    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p><p>Water Street detour starts Monday, June 23. Check bulletins for details.</p><p>Routes 3, 10 detoured in the downtown area all day on August 24th. Check bulletins for details.</p>",
+    "bulletin": "<p>Route 3 and 10 not servicing bus stop ID 2165 (Sir Humphrey Gilbert Building). Check bulletins for details.</p><p>Water Street detour starts Monday, June 23. Check bulletins for details.</p>",
     "routenumber": 10,
     "vehicle": "2442",
     "time_stamp": "4:30 PM",
