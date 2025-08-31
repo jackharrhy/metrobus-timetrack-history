@@ -38,7 +38,7 @@
     "exception": "N",
     "icon": "busiconSE.png",
     "shortstatus": "A1",
-    "requestip": "::1            "
+    "requestip": "127.0.0.1      "
   },
   {
     "routerun": "Rt 10-1",
@@ -79,6 +79,6 @@
     "exception": "N",
     "icon": "busiconNNW.png",
     "shortstatus": "A1",
-    "requestip": "::1            "
+    "requestip": "127.0.0.1      "
   }
 ]
