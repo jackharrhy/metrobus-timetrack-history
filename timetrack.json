@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "routerunshort": "10-3",
+    "current_route": "10-3",
+    "bulletin": "<p>Water Street detour in effect until the end of October. &nbsp;Routes 3, 10 will use Harbour Drive and not Water Street.</p><p>Detours scheduled Sunday for routes 2, 3, 6, 10 and 15. Check bulletins for details.</p><p>Route 10 not servicing Westerland Road due to construction. Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "1627",
+    "time_stamp": "6:36 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Gower St civic 193",
+    "bus_lat": "47.56518",
+    "bus_lon": "-52.70903",
+    "heading": "NNE",
+    "speed": 22,
+    "position_time": "6:36 AM",
+    "position_time_seconds": 23812,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Gower St civic 193",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "247246",
+    "gtfs_trip_id": "247246",
+    "gtfs_trip_id_history": "247246",
+    "gtfs_stop_sequence_actual": 3,
+    "gtfs_stop_sequence_actual_history": 3,
+    "gtfs_stop_sequence_max_trip": 3,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:36 AM",
+    "departure_time_at_closest_stop": "23820",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconNNE.png",
+    "shortstatus": "OT",
+    "requestip": "127.0.0.1      "
+  }
+]
