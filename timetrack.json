@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-2",
-    "current_route": "03-2",
-    "bulletin": "<p>Water Street detour in effect until the end of October. &nbsp;Routes 3, 10 will use Harbour Drive and not Water Street.</p>",
-    "routenumber": 3,
-    "vehicle": "1312",
-    "time_stamp": "4:50 PM",
-    "deviation": "5 MINS BEHIND",
-    "service": "2",
-    "current_location": "Topsail Rd civic 520 Burger King",
-    "bus_lat": "47.55867",
-    "bus_lon": "-52.78488",
-    "heading": "NE",
-    "speed": 2,
-    "position_time": "4:50 PM",
-    "position_time_seconds": 60616,
-    "gtfs_trip_headsign": "Downtown - Stavanger Dr",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 5,
-    "gtfs_stop_sequence_deviation": "5 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Rd civic 520 Burger King",
-    "gtfs_stop_sequence_sched_difference_mins": -5,
-    "gtfs_stop_sequence_trip_id": "246980",
-    "gtfs_trip_id": "246980",
-    "gtfs_trip_id_history": "246982",
-    "gtfs_stop_sequence_actual": 3,
-    "gtfs_stop_sequence_actual_history": 15,
-    "gtfs_stop_sequence_max_trip": 15,
-    "gtfs_stop_last_known_status": "03-2 last status 5 MINS BEHIND @  8:11 PM",
-    "departure_time_at_closest_stop": "60360",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNE.png",
-    "shortstatus": "B5",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
