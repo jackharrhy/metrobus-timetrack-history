@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "current_route": "10-1",
-    "bulletin": "<p>Detours scheduled for routes 3, 10 on Remembrance Day, November 11. Check bulletins for details.</p>",
-    "routenumber": 10,
-    "vehicle": "1201",
-    "time_stamp": "7:45 PM",
-    "deviation": "17 MINS BEHIND",
-    "service": "5",
-    "current_location": "Kelsey Dr civic 125",
-    "bus_lat": "47.55823",
-    "bus_lon": "-52.78428",
-    "heading": "S",
-    "speed": 2,
-    "position_time": "7:45 PM",
-    "position_time_seconds": 71104,
-    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 17,
-    "gtfs_stop_sequence_deviation": "17 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Dr civic 125",
-    "gtfs_stop_sequence_sched_difference_mins": -17,
-    "gtfs_stop_sequence_trip_id": "241698",
-    "gtfs_trip_id": "241698",
-    "gtfs_trip_id_history": "241701",
-    "gtfs_stop_sequence_actual": 27,
-    "gtfs_stop_sequence_actual_history": 5,
-    "gtfs_stop_sequence_max_trip": 5,
-    "gtfs_stop_last_known_status": "10-1 last status 17 MINS BEHIND @ 10:56 PM",
-    "departure_time_at_closest_stop": "72180",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconS.png",
-    "shortstatus": "B17",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
