@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-2",
-    "current_route": "03-2",
-    "bulletin": "None",
-    "routenumber": 3,
-    "vehicle": "1525",
-    "time_stamp": "5:41 PM",
-    "deviation": "4 MINS BEHIND",
-    "service": "2",
-    "current_location": "Topsail Rd opp McDonalds",
-    "bus_lat": "47.55847",
-    "bus_lon": "-52.78473",
-    "heading": "SSE",
-    "speed": 0,
-    "position_time": "5:41 PM",
-    "position_time_seconds": 63671,
-    "gtfs_trip_headsign": "Carrick Dr - Downtown - The Village",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 4,
-    "gtfs_stop_sequence_deviation": "4 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Rd opp McDonalds",
-    "gtfs_stop_sequence_sched_difference_mins": -4,
-    "gtfs_stop_sequence_trip_id": "241562",
-    "gtfs_trip_id": "241562",
-    "gtfs_trip_id_history": "241548",
-    "gtfs_stop_sequence_actual": 56,
-    "gtfs_stop_sequence_actual_history": 27,
-    "gtfs_stop_sequence_max_trip": 27,
-    "gtfs_stop_last_known_status": "03-2 last status 4 MINS BEHIND @  8:16 PM",
-    "departure_time_at_closest_stop": "66180",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSSE.png",
-    "shortstatus": "B4",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
