@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 2-1",
-    "current_route": "02-1",
-    "bulletin": "None",
-    "routenumber": 2,
-    "vehicle": "1201",
-    "time_stamp": "6:44 PM",
-    "deviation": "28 MINS BEHIND",
-    "service": "5",
-    "current_location": "Peet St CORAS Restaurant",
-    "bus_lat": "47.55860",
-    "bus_lon": "-52.78435",
-    "heading": "SSE",
-    "speed": 0,
-    "position_time": "6:44 PM",
-    "position_time_seconds": 67482,
-    "gtfs_trip_headsign": "Virginia Park - The Village",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "BEHIND",
-    "gtfs_stop_sequence_mins_from_stop": 28,
-    "gtfs_stop_sequence_deviation": "28 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Peet St CORAS Restaurant",
-    "gtfs_stop_sequence_sched_difference_mins": -28,
-    "gtfs_stop_sequence_trip_id": "241285",
-    "gtfs_trip_id": "241285",
-    "gtfs_trip_id_history": "0",
-    "gtfs_stop_sequence_actual": 3,
-    "gtfs_stop_sequence_actual_history": 0,
-    "gtfs_stop_sequence_max_trip": 0,
-    "gtfs_stop_last_known_status": "02-1 last status NO HISTORY @ 6:00 AM",
-    "departure_time_at_closest_stop": "65760",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSSE.png",
-    "shortstatus": "B28",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
