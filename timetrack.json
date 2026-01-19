@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 10-1",
-    "current_route": "10-1",
-    "bulletin": "None",
-    "routenumber": 10,
-    "vehicle": "1521",
-    "time_stamp": "12:31 PM",
-    "deviation": "ON TIME",
-    "service": "2",
-    "current_location": "Kelsey Dr civic 125",
-    "bus_lat": "47.55872",
-    "bus_lon": "-52.78445",
-    "heading": "W",
-    "speed": 2,
-    "position_time": "12:31 PM",
-    "position_time_seconds": 45076,
-    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 0,
-    "gtfs_stop_sequence_deviation": "ON TIME",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Kelsey Dr civic 125",
-    "gtfs_stop_sequence_sched_difference_mins": 0,
-    "gtfs_stop_sequence_trip_id": "249158",
-    "gtfs_trip_id": "249158",
-    "gtfs_trip_id_history": "249141",
-    "gtfs_stop_sequence_actual": 27,
-    "gtfs_stop_sequence_actual_history": 22,
-    "gtfs_stop_sequence_max_trip": 22,
-    "gtfs_stop_last_known_status": "10-1 last status ON TIME @  8:11 PM",
-    "departure_time_at_closest_stop": "47280",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconW.png",
-    "shortstatus": "OT",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
