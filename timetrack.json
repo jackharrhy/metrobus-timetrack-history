@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "1525",
+    "time_stamp": "6:41 AM",
+    "deviation": "ON TIME",
+    "service": "1",
+    "current_location": "Merrymeeting Rd civic 204",
+    "bus_lat": "47.56385",
+    "bus_lon": "-52.72393",
+    "heading": "SW",
+    "speed": 30,
+    "position_time": "6:41 AM",
+    "position_time_seconds": 24086,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": "Y",
+    "gtfs_stop_sequence_status": "NO DATA",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Merrymeeting Rd civic 204",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "249125",
+    "gtfs_trip_id": "249125",
+    "gtfs_trip_id_history": "249125",
+    "gtfs_stop_sequence_actual": 9,
+    "gtfs_stop_sequence_actual_history": 8,
+    "gtfs_stop_sequence_max_trip": 8,
+    "gtfs_stop_last_known_status": "10-3 last status ON TIME @  6:41 AM",
+    "departure_time_at_closest_stop": "24120",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconSW.png",
+    "shortstatus": "OT",
+    "groupIcon": "Y",
+    "requestip": "127.0.0.1      "
+  }
+]
