@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-3",
+    "current_route": "10-3",
+    "bulletin": "None",
+    "routenumber": 10,
+    "vehicle": "2570",
+    "time_stamp": "6:42 AM",
+    "deviation": "3 MINS AHEAD",
+    "service": "1",
+    "current_location": "Freshwater Rd civic 232",
+    "bus_lat": "47.56328",
+    "bus_lon": "-52.73407",
+    "heading": "W",
+    "speed": 0,
+    "position_time": "6:42 AM",
+    "position_time_seconds": 24158,
+    "gtfs_trip_headsign": "MUN Campus - Avalon Mall - Kelsey Dr",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "1",
+    "wifi": null,
+    "gtfs_stop_sequence_status": "AHEAD",
+    "gtfs_stop_sequence_mins_from_stop": 3,
+    "gtfs_stop_sequence_deviation": "3 MINS AHEAD",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Freshwater Rd civic 232",
+    "gtfs_stop_sequence_sched_difference_mins": 3,
+    "gtfs_stop_sequence_trip_id": "249125",
+    "gtfs_trip_id": "249125",
+    "gtfs_trip_id_history": "249125",
+    "gtfs_stop_sequence_actual": 11,
+    "gtfs_stop_sequence_actual_history": 11,
+    "gtfs_stop_sequence_max_trip": 11,
+    "gtfs_stop_last_known_status": "10-3 last status 3 MINS AHEAD @  6:41 AM",
+    "departure_time_at_closest_stop": "24300",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconW.png",
+    "shortstatus": "A3",
+    "groupIcon": "Y",
+    "requestip": "127.0.0.1      "
+  }
+]
