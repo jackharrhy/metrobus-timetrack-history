@@ -38,6 +38,6 @@
     "icon": "busiconSSE.png",
     "shortstatus": "B22",
     "groupIcon": "Y",
-    "requestip": "::1            "
+    "requestip": "127.0.0.1      "
   }
 ]
