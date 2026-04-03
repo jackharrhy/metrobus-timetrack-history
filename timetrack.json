@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 12-1",
-    "current_route": "12-1",
-    "bulletin": "None",
-    "routenumber": 12,
-    "vehicle": "754",
-    "time_stamp": "10:57 PM",
-    "deviation": "30 MINS BEHIND",
-    "service": "2",
-    "current_location": "Avalon Mall - Upper Stop",
-    "bus_lat": "47.55843",
-    "bus_lon": "-52.78505",
-    "heading": "NW",
-    "speed": 2,
-    "position_time": "10:57 PM",
-    "position_time_seconds": 82644,
-    "gtfs_trip_headsign": "Ropewalk Lane  - The Village",
-    "colour": "#FFFFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "BEHIND",
-    "gtfs_stop_sequence_mins_from_stop": 30,
-    "gtfs_stop_sequence_deviation": "30 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#FFFFCC",
-    "gtfs_stop_sequence_closest_stop": "Avalon Mall - Upper Stop",
-    "gtfs_stop_sequence_sched_difference_mins": -30,
-    "gtfs_stop_sequence_trip_id": "249335",
-    "gtfs_trip_id": "249335",
-    "gtfs_trip_id_history": "249324",
-    "gtfs_stop_sequence_actual": 1,
-    "gtfs_stop_sequence_actual_history": 30,
-    "gtfs_stop_sequence_max_trip": 30,
-    "gtfs_stop_last_known_status": "12-1 last status NO HISTORY @ 6:00 AM",
-    "departure_time_at_closest_stop": "72000",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconNW.png",
-    "shortstatus": "B30",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
