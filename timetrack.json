@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-2",
-    "current_route": "03-2",
-    "bulletin": "None",
-    "routenumber": 3,
-    "vehicle": "1418",
-    "time_stamp": "2:55 PM",
-    "deviation": "4 MINS BEHIND",
-    "service": "2",
-    "current_location": "Topsail Rd opp McDonalds",
-    "bus_lat": "47.55840",
-    "bus_lon": "-52.78443",
-    "heading": "SW",
-    "speed": 2,
-    "position_time": "2:55 PM",
-    "position_time_seconds": 53719,
-    "gtfs_trip_headsign": "Eastern Health - Highland Dr - Downtown - Village",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "2",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 4,
-    "gtfs_stop_sequence_deviation": "4 MINS BEHIND",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Rd opp McDonalds",
-    "gtfs_stop_sequence_sched_difference_mins": -4,
-    "gtfs_stop_sequence_trip_id": "248879",
-    "gtfs_trip_id": "248879",
-    "gtfs_trip_id_history": "248861",
-    "gtfs_stop_sequence_actual": 59,
-    "gtfs_stop_sequence_actual_history": 26,
-    "gtfs_stop_sequence_max_trip": 26,
-    "gtfs_stop_last_known_status": "03-2 last status 4 MINS BEHIND @  8:14 PM",
-    "departure_time_at_closest_stop": "54480",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconSW.png",
-    "shortstatus": "B4",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
