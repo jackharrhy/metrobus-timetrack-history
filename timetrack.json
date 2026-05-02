@@ -1,43 +1,7 @@
-[
-  {
-    "routerun": "Rt 3-3",
-    "current_route": "03-3",
-    "bulletin": "<p>Water Street detour starts Monday, April 27th. Check bulletins for details.</p><p>Detours scheduled Sunday for routes 3, 10 in the downtown area. &nbsp;Check bulletins for details.</p>",
-    "routenumber": 3,
-    "vehicle": "1205",
-    "time_stamp": "11:20 PM",
-    "deviation": "2 MINS AHEAD",
-    "service": "5",
-    "current_location": "Topsail Rd before Holbrook Ave",
-    "bus_lat": "47.55838",
-    "bus_lon": "-52.78458",
-    "heading": "W",
-    "speed": 2,
-    "position_time": "11:20 PM",
-    "position_time_seconds": 84047,
-    "gtfs_trip_headsign": "DOWNTOWN - THE VILLAGE",
-    "colour": "#99FFCC",
-    "gtfs_service_id": "5",
-    "wifi": "Y",
-    "gtfs_stop_sequence_status": "NO DATA",
-    "gtfs_stop_sequence_mins_from_stop": 2,
-    "gtfs_stop_sequence_deviation": "2 MINS AHEAD",
-    "gtfs_stop_sequence_colour": "#99FFCC",
-    "gtfs_stop_sequence_closest_stop": "Topsail Rd before Holbrook Ave",
-    "gtfs_stop_sequence_sched_difference_mins": 2,
-    "gtfs_stop_sequence_trip_id": "254455",
-    "gtfs_trip_id": "254455",
-    "gtfs_trip_id_history": "254456",
-    "gtfs_stop_sequence_actual": 58,
-    "gtfs_stop_sequence_actual_history": 4,
-    "gtfs_stop_sequence_max_trip": 4,
-    "gtfs_stop_last_known_status": "03-3 last status 2 MINS AHEAD @ 11:28 PM",
-    "departure_time_at_closest_stop": "84480",
-    "geo_coded_location": "NOT QUERIED",
-    "exception": "N",
-    "icon": "busiconW.png",
-    "shortstatus": "A2",
-    "groupIcon": "Y",
-    "requestip": "127.0.0.1      "
-  }
-]
+{
+  "timetrack": [
+    {
+      "route": "No record"
+    }
+  ]
+}
