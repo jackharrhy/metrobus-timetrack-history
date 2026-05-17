@@ -1,7 +1,43 @@
-{
-  "timetrack": [
-    {
-      "route": "No record"
-    }
-  ]
-}
+[
+  {
+    "routerun": "Rt 10-1",
+    "current_route": "10-1",
+    "bulletin": "<p>Water Street detour starts Monday, April 27th. Check bulletins for details.</p>",
+    "routenumber": 10,
+    "vehicle": "2568",
+    "time_stamp": "8:22 AM",
+    "deviation": "ON TIME",
+    "service": "2",
+    "current_location": "Kelsey Dr at Walmart",
+    "bus_lat": "47.55033",
+    "bus_lon": "-52.77940",
+    "heading": "SSE",
+    "speed": 0,
+    "position_time": "8:22 AM",
+    "position_time_seconds": 30152,
+    "gtfs_trip_headsign": "MUN CENTRE - DOWNTOWN",
+    "colour": "#99FFCC",
+    "gtfs_service_id": "2",
+    "wifi": null,
+    "gtfs_stop_sequence_status": "ON TIME",
+    "gtfs_stop_sequence_mins_from_stop": 0,
+    "gtfs_stop_sequence_deviation": "ON TIME",
+    "gtfs_stop_sequence_colour": "#99FFCC",
+    "gtfs_stop_sequence_closest_stop": "Kelsey Dr at Walmart",
+    "gtfs_stop_sequence_sched_difference_mins": 0,
+    "gtfs_stop_sequence_trip_id": "254809",
+    "gtfs_trip_id": "254809",
+    "gtfs_trip_id_history": "254809",
+    "gtfs_stop_sequence_actual": 1,
+    "gtfs_stop_sequence_actual_history": 1,
+    "gtfs_stop_sequence_max_trip": 1,
+    "gtfs_stop_last_known_status": "10-1 last status ON TIME @  8:22 AM",
+    "departure_time_at_closest_stop": "30000",
+    "geo_coded_location": "NOT QUERIED",
+    "exception": "N",
+    "icon": "busiconSSE.png",
+    "shortstatus": "OT",
+    "groupIcon": "Y",
+    "requestip": "127.0.0.1      "
+  }
+]
