@@ -13,20 +13,5 @@
     "bus_lon": -52.78475,
     "exception": "N",
     "colour": "#99FFCC"
-  },
-  {
-    "current_route": "10-1",
-    "routerun": "Rt 10-1",
-    "routenumber": 10,
-    "vehicle": "1206",
-    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
-    "current_location": "Kelsey Dr at Walmart",
-    "deviation": "4 MINS BEHIND",
-    "time_stamp": "6:54 PM",
-    "position_time": "6:54 PM",
-    "bus_lat": 47.55838,
-    "bus_lon": -52.78482,
-    "exception": "N",
-    "colour": "#99FFCC"
   }
 ]
