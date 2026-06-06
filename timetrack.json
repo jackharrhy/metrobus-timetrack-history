@@ -1,16 +1,31 @@
 [
   {
+    "current_route": "10-1",
+    "routerun": "Rt 10-1",
+    "routenumber": 10,
+    "vehicle": "1419",
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Elizabeth Ave opp Whiteway St",
+    "deviation": "ON TIME",
+    "time_stamp": "7:17 AM",
+    "position_time": "7:17 AM",
+    "bus_lat": 47.56847,
+    "bus_lon": -52.73442,
+    "exception": "N",
+    "colour": "#99FFCC"
+  },
+  {
     "current_route": "10-3",
     "routerun": "Rt 10-3",
     "routenumber": 10,
     "vehicle": "1520",
     "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
-    "current_location": "Water St at Convention Centre",
-    "deviation": "2 MINS AHEAD",
-    "time_stamp": "6:34 AM",
-    "position_time": "6:34 AM",
-    "bus_lat": 47.55948,
-    "bus_lon": -52.71175,
+    "current_location": "Kelsey Dr at Sobeys",
+    "deviation": "ON TIME",
+    "time_stamp": "7:16 AM",
+    "position_time": "7:16 AM",
+    "bus_lat": 47.5515,
+    "bus_lon": -52.78033,
     "exception": "N",
     "colour": "#99FFCC"
   }
