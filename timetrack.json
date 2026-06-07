@@ -13,20 +13,5 @@
     "bus_lon": -52.78497,
     "exception": "N",
     "colour": "#99FFCC"
-  },
-  {
-    "current_route": "10-1",
-    "routerun": "Rt 10-1",
-    "routenumber": 10,
-    "vehicle": "1416",
-    "gtfs_trip_headsign": "MUN CENTRE - AVALON MALL - KELSEY DRIVE",
-    "current_location": "Kelsey Dr after Messenger Dr",
-    "deviation": "2 MINS BEHIND",
-    "time_stamp": "2:25 PM",
-    "position_time": "2:25 PM",
-    "bus_lat": 47.55835,
-    "bus_lon": -52.78428,
-    "exception": "N",
-    "colour": "#99FFCC"
   }
 ]
