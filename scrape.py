@@ -95,6 +95,20 @@ def _to_float(value: str | None) -> float | None:
         return None
 
 
+def _service_notice(html: str) -> str | None:
+    soup = BeautifulSoup(html, "html.parser")
+    heading = soup.find("h4", string=re.compile(r"^\s*Service Notice\s*$", re.I))
+    if heading is None:
+        return None
+
+    notice = heading.find_next("p")
+    if notice is None:
+        return "Service Notice"
+
+    text = " ".join(notice.get_text(" ", strip=True).split())
+    return text or "Service Notice"
+
+
 def _parse_anchor(anchor: Tag) -> dict[str, Any] | None:
     href = anchor.get("href") or ""
     if "busLocate.asp" not in href:
@@ -181,6 +195,11 @@ def main() -> int:
     html = fetch()
     rows = parse(html)
     if not rows:
+        notice = _service_notice(html)
+        if notice is not None:
+            print(f"INFO: no active bus data available: {notice}", file=sys.stderr)
+            return 0
+
         # Don't overwrite good history with an empty array on a transient hiccup.
         print("ERROR: no entries parsed from timetrack_data.asp", file=sys.stderr)
         sys.stderr.write(html[:500] + "\n")
