@@ -1,16 +1,31 @@
 [
   {
+    "current_route": "10-1",
+    "routerun": "Rt 10-1",
+    "routenumber": 10,
+    "vehicle": "1311",
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Freshwater Rd at Keane Pl",
+    "deviation": "ON TIME",
+    "time_stamp": "7:21 AM",
+    "position_time": "7:21 AM",
+    "bus_lat": 47.56332,
+    "bus_lon": -52.72675,
+    "exception": "N",
+    "colour": "#99FFCC"
+  },
+  {
     "current_route": "10-3",
     "routerun": "Rt 10-3",
     "routenumber": 10,
     "vehicle": "2568",
-    "gtfs_trip_headsign": "MUN CENTRE - AVALON MALL - KELSEY DRIVE",
-    "current_location": "Parade St",
-    "deviation": "1 MIN AHEAD",
-    "time_stamp": "6:38 AM",
-    "position_time": "6:38 AM",
-    "bus_lat": 47.56547,
-    "bus_lon": -52.71528,
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Seaborn St opp McLaren Pl",
+    "deviation": "2 MINS AHEAD",
+    "time_stamp": "7:21 AM",
+    "position_time": "7:21 AM",
+    "bus_lat": 47.56552,
+    "bus_lon": -52.76985,
     "exception": "N",
     "colour": "#99FFCC"
   }
