@@ -1,16 +1,31 @@
 [
   {
+    "current_route": "10-1",
+    "routerun": "Rt 10-1",
+    "routenumber": 10,
+    "vehicle": "1626",
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Westerland Rd opp Irwins Rd",
+    "deviation": "1 MIN BEHIND",
+    "time_stamp": "7:14 AM",
+    "position_time": "7:14 AM",
+    "bus_lat": 47.57198,
+    "bus_lon": -52.73843,
+    "exception": "N",
+    "colour": "#99FFCC"
+  },
+  {
     "current_route": "10-3",
     "routerun": "Rt 10-3",
     "routenumber": 10,
     "vehicle": "2567",
-    "gtfs_trip_headsign": "MILITARY ROAD TO CONVENTION CENTRE",
-    "current_location": "Water St at Convention Centre",
-    "deviation": "3 MINS AHEAD",
-    "time_stamp": "6:31 AM",
-    "position_time": "6:31 AM",
-    "bus_lat": 47.55938,
-    "bus_lon": -52.71175,
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Kelsey Dr at Walmart",
+    "deviation": "ON TIME",
+    "time_stamp": "7:14 AM",
+    "position_time": "7:14 AM",
+    "bus_lat": 47.55493,
+    "bus_lon": -52.78268,
     "exception": "N",
     "colour": "#99FFCC"
   }
