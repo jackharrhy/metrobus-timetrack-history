@@ -1,16 +1,31 @@
 [
   {
+    "current_route": "10-1",
+    "routerun": "Rt 10-1",
+    "routenumber": 10,
+    "vehicle": "2573",
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Thorburn Rd after Wigmore Ct",
+    "deviation": "4 MINS BEHIND",
+    "time_stamp": "7:02 AM",
+    "position_time": "7:02 AM",
+    "bus_lat": 47.5642,
+    "bus_lon": -52.7622,
+    "exception": "N",
+    "colour": "#99FFCC"
+  },
+  {
     "current_route": "10-3",
     "routerun": "Rt 10-3",
     "routenumber": 10,
     "vehicle": "2574",
-    "gtfs_trip_headsign": "MILITARY ROAD TO CONVENTION CENTRE",
-    "current_location": "Water St at Convention Centre",
-    "deviation": "3 MINS AHEAD",
-    "time_stamp": "6:34 AM",
-    "position_time": "6:34 AM",
-    "bus_lat": 47.55952,
-    "bus_lon": -52.71168,
+    "gtfs_trip_headsign": "MUN CENTRE - AVALON MALL - KELSEY DRIVE",
+    "current_location": "Thorburn Rd after Bambrick St",
+    "deviation": "1 MIN AHEAD",
+    "time_stamp": "7:02 AM",
+    "position_time": "7:02 AM",
+    "bus_lat": 47.56463,
+    "bus_lon": -52.76482,
     "exception": "N",
     "colour": "#99FFCC"
   }
