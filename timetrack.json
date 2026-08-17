@@ -1,17 +1,32 @@
 [
   {
-    "current_route": "03-2",
-    "routerun": "Rt 03-2",
-    "routenumber": 3,
-    "vehicle": "2568",
-    "gtfs_trip_headsign": "STAVANGER DRIVE - THE VILLAGE",
-    "current_location": "Topsail Rd before Holbrook Ave",
-    "deviation": "1 MIN AHEAD",
-    "time_stamp": "11:03 AM",
-    "position_time": "11:03 AM",
-    "bus_lat": 47.55842,
-    "bus_lon": -52.78502,
+    "current_route": "10-2",
+    "routerun": "Rt 10-2",
+    "routenumber": 10,
+    "vehicle": "1629",
+    "gtfs_trip_headsign": "MILITARY ROAD TO CONVENTION CENTRE",
+    "current_location": "Military Rd opp St Thomas Church",
+    "deviation": "1 MIN BEHIND",
+    "time_stamp": "6:21 AM",
+    "position_time": "6:21 AM",
+    "bus_lat": 47.57098,
+    "bus_lon": -52.70145,
     "exception": "N",
     "colour": "#99FFCC"
+  },
+  {
+    "current_route": "10-3",
+    "routerun": "Rt 10-3",
+    "routenumber": 10,
+    "vehicle": "2571",
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Thorburn Rd at Avalon Mall",
+    "deviation": "UNKNOWN",
+    "time_stamp": "6:21 AM",
+    "position_time": "6:21 AM",
+    "bus_lat": 47.56258,
+    "bus_lon": -52.75578,
+    "exception": "N",
+    "colour": null
   }
 ]
