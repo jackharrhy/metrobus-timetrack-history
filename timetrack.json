@@ -1,16 +1,31 @@
 [
   {
+    "current_route": "10-1",
+    "routerun": "Rt 10-1",
+    "routenumber": 10,
+    "vehicle": "1629",
+    "gtfs_trip_headsign": "AVALON MALL - MUN CENTRE - DOWNTOWN",
+    "current_location": "Thorburn Rd at Avalon Mall",
+    "deviation": "5 MINS BEHIND",
+    "time_stamp": "7:02 AM",
+    "position_time": "7:02 AM",
+    "bus_lat": 47.56268,
+    "bus_lon": -52.7561,
+    "exception": "N",
+    "colour": "#FFFFCC"
+  },
+  {
     "current_route": "10-3",
     "routerun": "Rt 10-3",
     "routenumber": 10,
     "vehicle": "1630",
-    "gtfs_trip_headsign": "MILITARY ROAD TO CONVENTION CENTRE",
-    "current_location": "Harbour Dr at Becks Cove",
-    "deviation": "ON TIME",
-    "time_stamp": "6:31 AM",
-    "position_time": "6:31 AM",
-    "bus_lat": 47.56033,
-    "bus_lon": -52.70975,
+    "gtfs_trip_headsign": "MUN CENTRE - AVALON MALL - KELSEY DRIVE",
+    "current_location": "Avalon Mall",
+    "deviation": "2 MINS BEHIND",
+    "time_stamp": "7:02 AM",
+    "position_time": "7:02 AM",
+    "bus_lat": 47.55995,
+    "bus_lon": -52.75757,
     "exception": "N",
     "colour": "#99FFCC"
   }
